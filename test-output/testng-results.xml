@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T22:03:04 IST" name="Default suite" finished-at="2021-09-26T22:03:16 IST" duration-ms="11507">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T22:03:04 IST" name="Default test" finished-at="2021-09-26T22:03:16 IST" duration-ms="11507">
+      <class name="TestNG.Selenium.ExtentReport">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:TestNG.Selenium.ExtentReport@4d02f94e]" started-at="2021-09-26T22:03:04 IST" name="startTest" finished-at="2021-09-26T22:03:05 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="extentReportsDemo()[pri:0, instance:TestNG.Selenium.ExtentReport@4d02f94e]" started-at="2021-09-26T22:03:05 IST" name="extentReportsDemo" finished-at="2021-09-26T22:03:15 IST" duration-ms="10659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportsDemo -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:TestNG.Selenium.ExtentReport@4d02f94e]" started-at="2021-09-26T22:03:15 IST" name="endTest" finished-at="2021-09-26T22:03:16 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- TestNG.Selenium.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [SmokeSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="methods" name="FunctionalTest(failed)">
+    <classes>
+      <class name="TestNG.Selenium.SeleniumCommands">
+        <methods>
+          <include name="verifyLogin"/>
+          <include name="classSetUp"/>
+          <include name="setUp"/>
+          <include name="classTearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestNG.Selenium.SeleniumCommands -->
+    </classes>
+  </test> <!-- FunctionalTest(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->
